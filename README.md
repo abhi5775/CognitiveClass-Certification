@@ -1,2 +1,2 @@
 # cognitive-certification
-consist of two successful cerfication
+consist of two successful certification
